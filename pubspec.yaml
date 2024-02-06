@@ -43,7 +43,7 @@ dependencies:
   google_fonts: ^5.1.0
   email_validator: ^2.1.17
   font_awesome_flutter: ^10.5.0
-  firebase_core: ^2.15.1
+  firebase_core: ^2.25.3
   firebase_auth: ^4.7.3
   firebase_database: ^10.2.5
   shared_preferences: ^2.2.0
