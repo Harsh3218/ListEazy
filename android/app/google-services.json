@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "488373785618",
+    "firebase_url": "https://listeazy-ecfa4-default-rtdb.firebaseio.com",
+    "project_id": "listeazy-ecfa4",
+    "storage_bucket": "listeazy-ecfa4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488373785618:android:698ecbc69599d4e80ab4cb",
+        "android_client_info": {
+          "package_name": "com.package.ListEazy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-oPwyIohYmsolIGUQkmyX6M3_z2rIBUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488373785618:android:288b7afc1d4e62ee0ab4cb",
+        "android_client_info": {
+          "package_name": "com.sync.task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-oPwyIohYmsolIGUQkmyX6M3_z2rIBUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
